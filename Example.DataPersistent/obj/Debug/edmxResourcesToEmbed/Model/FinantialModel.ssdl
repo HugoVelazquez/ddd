@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FINANTIALModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CATESTATUSPAGO">
+    <Key>
+      <PropertyRef Name="IDCATESTATUSPAGO" />
+    </Key>
+    <Property Name="IDCATESTATUSPAGO" Type="int" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="nvarchar" MaxLength="100" />
+    <Property Name="ACTIVO" Type="bit" />
+  </EntityType>
+  <EntityType Name="CATFORMAPAGO">
+    <Key>
+      <PropertyRef Name="IDCATFORMAPAGO" />
+    </Key>
+    <Property Name="IDCATFORMAPAGO" Type="int" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="nvarchar" MaxLength="100" />
+    <Property Name="ACTIVO" Type="bit" />
+  </EntityType>
+  <EntityType Name="CATTIPODOCUMENTO">
+    <Key>
+      <PropertyRef Name="IDCATTIPODOCUMENTO" />
+    </Key>
+    <Property Name="IDCATTIPODOCUMENTO" Type="int" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="nvarchar" MaxLength="100" />
+    <Property Name="ACTIVO" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="FINANTIALModelStoreContainer">
+    <EntitySet Name="CATESTATUSPAGO" EntityType="Self.CATESTATUSPAGO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CATFORMAPAGO" EntityType="Self.CATFORMAPAGO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CATTIPODOCUMENTO" EntityType="Self.CATTIPODOCUMENTO" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

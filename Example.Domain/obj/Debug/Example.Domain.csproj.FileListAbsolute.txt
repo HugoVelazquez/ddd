@@ -1,0 +1,10 @@
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\Example.Domain.dll
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\Example.Domain.pdb
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\obj\Debug\Example.Domain.csprojResolveAssemblyReference.cache
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\obj\Debug\Example.Domain.dll
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\obj\Debug\Example.Domain.pdb
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\Example.Domain.dll.config
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\EntityFramework.dll
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\EntityFramework.xml
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\EntityFramework.SqlServer.xml

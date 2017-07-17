@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Example.API</name>
+    </assembly>
+    <members>
+        <member name="F:Example.API.App_Start.NinjectWebCommon.Bootstrapper">
+            <summary>
+            Campo reservado de solo lectura para el objeto <see cref="T:Ninject.Web.Common.Bootstrapper"/>
+            </summary>
+        </member>
+        <member name="M:Example.API.App_Start.NinjectWebCommon.Start">
+            <summary>
+            Starts the application
+            </summary>
+        </member>
+        <member name="M:Example.API.App_Start.NinjectWebCommon.Stop">
+            <summary>
+            Stops the application.
+            </summary>
+        </member>
+        <member name="M:Example.API.App_Start.NinjectWebCommon.CreateKernel">
+            <summary>
+            Creates the kernel that will manage your application.
+            </summary>
+            <returns>The created kernel.</returns>
+        </member>
+        <member name="M:Example.API.App_Start.NinjectWebCommon.RegisterServices(Ninject.IKernel)">
+            <summary>
+            Load your modules or register your services here!
+            </summary>
+            <param name="kernel">The kernel.</param>
+        </member>
+        <member name="T:Example.API.Controllers.TestController">
+            <summary>
+            Clase de pruebas, implementando IoC, DI y swagger
+            </summary>
+        </member>
+        <member name="M:Example.API.Controllers.TestController.#ctor(Example.Domain.IServices.IServiceUser)">
+            <summary>
+            Constructor de la clase <see cref="T:Example.API.Controllers.TestController"/>
+            </summary>
+            <param name="serviceUser">Interfaz para injectar Servicio de ServiceUser/></param>
+        </member>
+        <member name="M:Example.API.Controllers.TestController.Get">
+            <summary>
+            Método de prueba para implementar DI, IoC e interfaz de swagger
+            </summary>
+            <returns>Regresa una cadena con el nombre de usuario</returns>
+        </member>
+        <member name="M:Example.API.DI.IoC.#ctor">
+            <summary>
+            Constructor que genera la instancia de la clase <see cref="T:Example.API.DI.IoC"/>
+            </summary>
+        </member>
+        <member name="P:Example.API.DI.IoC.Kernel">
+            <summary>
+            Proporciona el kernel
+            </summary>
+        </member>
+        <member name="M:Example.API.DI.IoC.GetNinjectModules">
+            <summary>
+            Método que se encarga de aplicar los modulos
+            </summary>
+            <returns>Retorna el kernel de los modulos inyectados</returns>
+        </member>
+    </members>
+</doc>

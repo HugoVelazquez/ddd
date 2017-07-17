@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FINANTIALModelStoreContainer" CdmEntityContainer="FINANTIALEntities">
+    <EntitySetMapping Name="CATESTATUSPAGO">
+      <EntityTypeMapping TypeName="FINANTIALModel.CATESTATUSPAGO">
+        <MappingFragment StoreEntitySet="CATESTATUSPAGO">
+          <ScalarProperty Name="IDCATESTATUSPAGO" ColumnName="IDCATESTATUSPAGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="ACTIVO" ColumnName="ACTIVO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CATFORMAPAGO">
+      <EntityTypeMapping TypeName="FINANTIALModel.CATFORMAPAGO">
+        <MappingFragment StoreEntitySet="CATFORMAPAGO">
+          <ScalarProperty Name="IDCATFORMAPAGO" ColumnName="IDCATFORMAPAGO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="ACTIVO" ColumnName="ACTIVO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CATTIPODOCUMENTO">
+      <EntityTypeMapping TypeName="FINANTIALModel.CATTIPODOCUMENTO">
+        <MappingFragment StoreEntitySet="CATTIPODOCUMENTO">
+          <ScalarProperty Name="IDCATTIPODOCUMENTO" ColumnName="IDCATTIPODOCUMENTO" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="ACTIVO" ColumnName="ACTIVO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
