@@ -1,5 +1,0 @@
-D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain.Dto\bin\Debug\Example.Domain.Dto.dll
-D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain.Dto\bin\Debug\Example.Domain.Dto.pdb
-D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain.Dto\obj\Debug\Example.Domain.Dto.csprojResolveAssemblyReference.cache
-D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain.Dto\obj\Debug\Example.Domain.Dto.dll
-D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain.Dto\obj\Debug\Example.Domain.Dto.pdb
