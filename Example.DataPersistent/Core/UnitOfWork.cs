@@ -11,7 +11,7 @@ namespace Example.DataPersistent.Core
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private readonly FINANTIALModel Context;
+        private readonly FINANTIALEntities Context;
 
         private TransactionScope transactionScope;
 
@@ -29,7 +29,7 @@ namespace Example.DataPersistent.Core
         /// Contructor de la clase <see cref="UnitOfWork"/>
         /// </summary>
         /// <param name="context">Contexto del modelo EF</param>
-        public UnitOfWork(FINANTIALModel context)
+        public UnitOfWork(FINANTIALEntities context)
         {
             this.Context = context;
         }

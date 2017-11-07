@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Example.DataPersistent;
+using Example.DataPersistent.Core;
 using Example.Domain.IRepositories;
 using Ninject.Modules;
 
@@ -14,6 +15,7 @@ namespace Example.Service
         public override void Load()
         {
             this.Bind<IRepositoryUser>().To<RepositoryUser>();
+            this.Bind<IUnitOfWork>().To<UnitOfWork>();
         }
     }
 }

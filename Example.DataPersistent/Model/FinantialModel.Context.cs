@@ -14,10 +14,10 @@ namespace Example.DataPersistent.Model
     using System.Data.Entity.Infrastructure;
     using Domain.Entity;
 
-    public partial class FINANTIALModel : DbContext
+    public partial class FINANTIALEntities : DbContext
     {
-        public FINANTIALModel()
-            : base("name=FINANTIALModel")
+        public FINANTIALEntities()
+            : base("name=FINANTIALEntities")
         {
         }
     

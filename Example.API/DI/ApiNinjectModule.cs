@@ -14,6 +14,7 @@ namespace Example.API.DI
         public override void Load()
         {
             this.Bind<IServiceUser>().To<ServiceUser>();
+            this.Bind<IServiceStatusPayment>().To<ServiceStatusPayment>();
         }
     }
 }

@@ -31,6 +31,28 @@
             </summary>
             <param name="kernel">The kernel.</param>
         </member>
+        <member name="T:Example.API.Controllers.CatStatusPaymentController">
+            <summary>
+            Controlador con CRUD para catalogo de estado de pago
+            </summary>
+        </member>
+        <member name="F:Example.API.Controllers.CatStatusPaymentController.serviceStatusPayment">
+            <summary>
+            variable que contiene la interfaz del servicio de Estado de pago
+            </summary>
+        </member>
+        <member name="M:Example.API.Controllers.CatStatusPaymentController.#ctor(Example.Domain.IServices.IServiceStatusPayment)">
+            <summary>
+            Constructor de la clase es Estado de pago
+            </summary>
+            <param name="serviceStatusPayment"></param>
+        </member>
+        <member name="M:Example.API.Controllers.CatStatusPaymentController.Get">
+            <summary>
+            Método de prueba para realizar una consulta al repositorio de Estado de pago
+            </summary>
+            <returns></returns>
+        </member>
         <member name="T:Example.API.Controllers.TestController">
             <summary>
             Clase de pruebas, implementando IoC, DI y swagger

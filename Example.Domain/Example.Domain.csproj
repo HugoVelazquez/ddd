@@ -70,6 +70,7 @@
     <Compile Include="IRepositories\IRepositoryPaymentStatus.cs" />
     <Compile Include="IRepositories\IRepositoryUser.cs" />
     <Compile Include="IRepositories\IUnitOfWork.cs" />
+    <Compile Include="IServices\IServiceStatusPayment.cs" />
     <Compile Include="IServices\IServiceUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
