@@ -137,3 +137,7 @@ D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.API\bin\Sys
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.API\bin\Example.API.XML
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.API\bin\EntityFramework.dll
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.API\bin\EntityFramework.xml
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.API\bin\AutoMapper.dll
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.API\bin\Example.Domain.Dto.dll
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.API\bin\AutoMapper.xml
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.API\bin\Example.Domain.Dto.pdb

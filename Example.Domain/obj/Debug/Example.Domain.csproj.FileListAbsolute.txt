@@ -8,3 +8,5 @@ D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\EntityFramework.SqlServer.dll
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\EntityFramework.xml
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\Example.Domain.Dto.dll
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.Domain\bin\Debug\Example.Domain.Dto.pdb

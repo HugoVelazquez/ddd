@@ -342,6 +342,10 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Example.Domain.Dto\Example.Domain.Dto.csproj">
+      <Project>{9021e88c-4bbc-45d1-b6cc-aa3b6d46794b}</Project>
+      <Name>Example.Domain.Dto</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Example.Domain\Example.Domain.csproj">
       <Project>{C4CFEEC1-0C92-4BE0-A6E6-11893305A5DF}</Project>
       <Name>Example.Domain</Name>

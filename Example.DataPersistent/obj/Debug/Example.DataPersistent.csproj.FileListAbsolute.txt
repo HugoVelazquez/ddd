@@ -10,3 +10,5 @@ D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.DataPersist
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.DataPersistent\bin\Debug\EntityFramework.SqlServer.dll
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.DataPersistent\bin\Debug\EntityFramework.xml
 D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.DataPersistent\bin\Debug\EntityFramework.SqlServer.xml
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.DataPersistent\bin\Debug\Example.Domain.Dto.dll
+D:\HVelazquez\Personal\Trabajo\Projectos\DependencyInjection\Example.DataPersistent\bin\Debug\Example.Domain.Dto.pdb
